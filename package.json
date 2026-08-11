@@ -1,0 +1,14 @@
+{
+  "name": "shinigami-bot",
+  "version": "1.0.0",
+  "description": "Bot WhatsApp PURGEUR / SHINIGAMI",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "pino": "^8.16.0"
+  }
+}
